@@ -1,0 +1,201 @@
+﻿country,year,industry,ai_adoption_rate_percent,ai_generated_content_volume_tbs_per_year,job_loss_dueto_ai_percent,revenue_increase_due_to_ai_percent,human_ai_collaboration_rate_percent,top_ai_tools_used,regulation_status,consumer_trust_in_ai_percent,market_share_of_ai_companies_percent
+South Korea,2022,Media,4429,3309,1677,4612,7479,Bard,Strict,4077,1873
+China,2025,Legal,3475,6674,4689,5246,2617,DALL-E,Strict,3567,3502
+USA,2022,Automotive,8106,9613,1066,456,3966,Stable Diffusion,Moderate,5447,2276
+France,2021,Legal,8524,9376,277,7824,2945,Claude,Moderate,5184,193
+France,2021,Gaming,7895,4562,1745,105,217,Midjourney,Strict,4177,2141
+USA,2021,Retail,6695,4772,86,2758,6442,ChatGPT,Lenient,6814,809
+Australia,2023,Media,6823,614,62,5313,5316,Claude,Moderate,716,1526
+UK,2023,Gaming,9127,3387,4167,5626,5993,ChatGPT,Moderate,4698,2851
+Canada,2025,Education,1702,8777,459,5245,6472,Claude,Moderate,6055,227
+China,2025,Healthcare,255,1874,1507,4081,6486,Stable Diffusion,Moderate,5107,3997
+USA,2023,Retail,1194,9159,2628,7393,5755,Synthesia,Moderate,6579,293
+India,2023,Gaming,3904,7844,3132,2893,7795,ChatGPT,Strict,3963,2279
+France,2020,Marketing,710,7753,1741,1256,3157,Midjourney,Strict,5693,3836
+France,2021,Legal,2562,8647,4764,711,3622,Bard,Lenient,6366,2992
+USA,2025,Gaming,4971,5019,1409,1241,4018,Stable Diffusion,Moderate,5705,576
+Japan,2024,Legal,6794,9681,884,5106,2304,Stable Diffusion,Lenient,3316,76
+Germany,2022,Education,4385,5254,3207,7368,7408,Stable Diffusion,Strict,5679,2507
+UK,2025,Manufacturing,6487,4904,3631,3816,8241,Synthesia,Lenient,7814,2054
+Japan,2022,Healthcare,6298,2498,2751,2751,5378,Midjourney,Strict,5593,3055
+France,2025,Marketing,6294,749,224,7169,6354,Stable Diffusion,Lenient,4426,4199
+Canada,2025,Gaming,9476,1758,1448,7163,6744,Midjourney,Strict,7196,3465
+South Korea,2025,Healthcare,441,8785,3996,3344,7272,Midjourney,Lenient,7674,4098
+Japan,2023,Marketing,1286,508,185,2065,7567,DALL-E,Lenient,3835,525
+France,2022,Media,4997,559,2261,1755,3497,Synthesia,Lenient,7871,276
+France,2023,Media,8841,534,3607,1378,3624,Synthesia,Moderate,5885,3586
+France,2020,Automotive,7959,2037,3906,4406,8318,Synthesia,Moderate,4504,1403
+USA,2020,Retail,2612,7378,2151,2263,6541,Midjourney,Strict,4456,346
+Germany,2022,Finance,8795,1255,1261,382,2544,Claude,Lenient,3437,3199
+France,2021,Media,4253,4438,899,4969,4711,Synthesia,Moderate,5515,4658
+India,2025,Retail,3274,2534,941,3342,7355,DALL-E,Lenient,7072,1993
+Canada,2022,Retail,6715,6571,892,1932,4095,Bard,Lenient,481,2215
+India,2022,Automotive,2848,3449,1844,235,3514,DALL-E,Strict,5731,1427
+Japan,2025,Retail,4497,4393,3293,1856,2481,Stable Diffusion,Moderate,5438,4637
+Japan,2023,Media,7157,724,1828,4983,3273,Claude,Moderate,4297,2845
+India,2025,Gaming,1679,85,2843,6547,2338,Synthesia,Moderate,5992,164
+South Korea,2023,Marketing,7481,5467,223,5234,848,Stable Diffusion,Lenient,4206,117
+UK,2024,Gaming,7752,34,1458,679,6623,DALL-E,Moderate,3146,4111
+Japan,2023,Media,2761,1449,3567,1849,4288,Claude,Strict,3012,4223
+USA,2022,Manufacturing,4461,2616,4934,5853,7529,Stable Diffusion,Moderate,3296,4324
+Germany,2021,Marketing,8118,356,3394,6833,7684,Claude,Lenient,4173,3904
+Japan,2022,Manufacturing,4128,2214,1033,667,4015,Claude,Lenient,6131,3326
+China,2024,Manufacturing,4854,8958,3488,6631,6028,Midjourney,Moderate,3052,2481
+Australia,2025,Gaming,6264,6124,3725,4372,2021,Claude,Lenient,7968,4708
+Japan,2022,Legal,5735,9406,3736,172,2037,Midjourney,Moderate,8869,753
+South Korea,2024,Retail,2663,9537,4958,175,7235,Midjourney,Strict,5362,4853
+South Korea,2024,Media,2598,529,1606,1174,4703,Claude,Strict,5583,4256
+France,2020,Media,2047,161,243,3104,5249,Stable Diffusion,Strict,358,2429
+USA,2021,Manufacturing,834,6633,2427,3495,4721,Claude,Moderate,4781,474
+Canada,2023,Media,6149,1753,4825,2074,4772,DALL-E,Moderate,879,2932
+Australia,2022,Gaming,8996,803,2511,7404,5167,Claude,Strict,7851,1766
+USA,2025,Media,3323,7551,1261,6358,7734,DALL-E,Lenient,4851,466
+South Korea,2020,Automotive,3094,8297,3708,6061,5601,Bard,Lenient,851,3838
+Australia,2023,Retail,9141,6749,667,7161,5473,ChatGPT,Strict,5396,2935
+USA,2022,Gaming,930,427,1292,5565,510,ChatGPT,Lenient,4734,2116
+France,2020,Manufacturing,9316,5091,3657,3531,7829,ChatGPT,Lenient,6504,904
+China,2022,Media,2627,3813,2179,337,6536,Midjourney,Lenient,5457,3802
+Germany,2023,Healthcare,8875,3056,3135,6023,4653,ChatGPT,Moderate,7019,3079
+India,2024,Finance,5027,1789,651,3002,2076,Claude,Moderate,3228,2684
+Australia,2021,Gaming,7622,7593,433,1063,6188,DALL-E,Moderate,6557,682
+UK,2025,Gaming,2827,398,319,612,4989,Midjourney,Lenient,5477,44
+Canada,2020,Marketing,4132,152,3442,1723,3629,Midjourney,Lenient,7043,3779
+Japan,2021,Education,3842,4078,2306,5805,8105,ChatGPT,Strict,8019,2528
+Germany,2021,Manufacturing,2025,9906,381,661,8008,DALL-E,Moderate,8065,55
+India,2022,Media,6839,3474,141,680,3505,Stable Diffusion,Strict,8843,3483
+India,2025,Retail,6821,684,932,5789,6189,Midjourney,Moderate,7814,413
+South Korea,2021,Marketing,4499,77,1815,5291,8025,ChatGPT,Moderate,3202,4891
+UK,2020,Legal,5034,507,104,58,6807,Synthesia,Strict,3736,2887
+China,2020,Manufacturing,4527,8247,1207,5715,5703,Midjourney,Strict,4257,3935
+China,2023,Legal,6693,659,323,85,7152,Midjourney,Strict,4334,541
+Australia,2024,Automotive,7821,3334,654,7676,878,Claude,Strict,7122,4904
+USA,2023,Finance,832,485,4084,2258,8254,Bard,Moderate,7614,353
+South Korea,2020,Retail,1297,7622,3317,7591,2728,Bard,Lenient,640,354
+China,2020,Education,707,9467,3759,447,7866,ChatGPT,Lenient,6486,386
+Australia,2022,Retail,786,1964,129,847,6418,ChatGPT,Strict,5915,1348
+India,2020,Media,4355,1489,1387,4109,3781,ChatGPT,Moderate,8644,353
+UK,2023,Education,8282,7553,2234,144,4039,Midjourney,Strict,3648,1729
+South Korea,2023,Legal,7542,2403,2882,4227,5472,Stable Diffusion,Lenient,7485,1126
+China,2021,Gaming,139,512,4971,57,654,Stable Diffusion,Moderate,6869,3859
+Japan,2024,Manufacturing,8272,1797,2356,5008,2406,ChatGPT,Strict,7796,546
+India,2021,Education,6304,8249,668,5072,8171,DALL-E,Lenient,3336,386
+China,2020,Manufacturing,7288,155,4777,7686,5578,Midjourney,Moderate,5709,121
+USA,2025,Retail,2657,3887,1633,277,7703,Claude,Moderate,7647,1673
+UK,2022,Automotive,8083,6755,4239,5187,7439,Synthesia,Strict,3356,2166
+France,2024,Finance,7322,9447,2642,2886,5706,Stable Diffusion,Strict,3017,4856
+USA,2025,Marketing,453,4281,303,2496,7813,Bard,Moderate,6628,1051
+UK,2022,Gaming,8974,1564,1014,38,3344,Midjourney,Moderate,4299,3223
+India,2024,Marketing,553,6776,321,1115,4872,Synthesia,Strict,5879,4509
+China,2025,Legal,8773,4474,4289,785,3934,DALL-E,Strict,7854,3272
+Germany,2020,Finance,719,2166,3769,2802,267,Midjourney,Moderate,408,3787
+UK,2021,Gaming,8838,1243,237,5251,5975,Stable Diffusion,Moderate,5427,4893
+USA,2021,Gaming,6718,792,4055,5254,503,Synthesia,Moderate,7315,866
+Japan,2022,Manufacturing,286,4995,4002,322,2245,Claude,Moderate,5158,299
+China,2022,Automotive,4672,8574,1577,7569,382,ChatGPT,Lenient,8361,3306
+Japan,2025,Retail,3591,225,4837,7107,6844,Midjourney,Moderate,8592,3333
+Japan,2021,Media,7622,5666,1567,3803,3305,Midjourney,Lenient,7486,4908
+France,2024,Gaming,2795,7137,4933,93,537,Stable Diffusion,Moderate,8706,2068
+India,2025,Retail,332,431,1477,6625,8174,Stable Diffusion,Moderate,490,1685
+USA,2025,Retail,3821,104,3685,852,2488,Claude,Lenient,3931,1184
+Germany,2023,Media,434,7592,964,3323,4207,Midjourney,Moderate,8728,4839
+South Korea,2021,Healthcare,6797,3818,2157,176,2043,Midjourney,Moderate,465,2088
+Japan,2025,Automotive,9296,4486,1464,2517,6819,Midjourney,Strict,7616,947
+South Korea,2020,Finance,1891,574,4053,4928,8293,Midjourney,Strict,6844,1268
+UK,2020,Education,7059,6457,2388,6935,5502,Claude,Lenient,8988,447
+South Korea,2023,Finance,8374,1968,3355,175,6479,ChatGPT,Moderate,7063,4678
+Canada,2022,Healthcare,5243,9069,379,978,6703,DALL-E,Strict,6392,4798
+USA,2024,Marketing,320,4426,9,4067,3298,Bard,Strict,6099,2231
+South Korea,2020,Education,4312,4247,1726,2612,386,ChatGPT,Moderate,6557,1043
+China,2023,Finance,2702,868,2544,851,686,Midjourney,Strict,8437,1469
+USA,2025,Gaming,2949,3314,1389,419,464,Bard,Strict,5368,4336
+South Korea,2024,Legal,5715,9202,2964,7389,8193,DALL-E,Moderate,6067,3777
+Australia,2025,Finance,3583,9462,2911,6536,8268,Stable Diffusion,Lenient,3802,2093
+USA,2020,Media,275,2367,221,5652,6077,Claude,Strict,3675,1256
+Canada,2021,Manufacturing,4972,736,4452,6678,7326,Midjourney,Lenient,8907,2052
+France,2025,Media,7964,8725,1232,5475,8248,DALL-E,Moderate,4954,2017
+South Korea,2021,Healthcare,5376,9477,408,3127,3223,Bard,Lenient,5134,118
+Japan,2025,Manufacturing,9167,9028,4965,2679,2529,Stable Diffusion,Strict,3875,2054
+Canada,2022,Legal,2753,9529,2908,1391,5229,Synthesia,Lenient,7043,906
+India,2025,Education,6708,8064,2679,157,5971,Bard,Strict,5386,4663
+Germany,2023,Gaming,7796,6951,2176,4193,5636,Bard,Strict,690,3955
+South Korea,2022,Gaming,7466,2614,889,635,5899,Claude,Lenient,8338,2908
+Canada,2025,Legal,8225,681,3099,7688,570,DALL-E,Lenient,3348,2713
+China,2021,Media,8509,4012,3467,5096,4318,Midjourney,Moderate,6128,2564
+China,2020,Retail,8241,7729,1175,1778,3319,DALL-E,Strict,8188,2411
+Germany,2024,Healthcare,1705,5286,4637,7085,7954,Claude,Strict,8317,456
+Australia,2020,Automotive,1431,3559,1459,3605,7671,Claude,Moderate,7646,264
+UK,2022,Marketing,7389,1663,4725,6891,6015,ChatGPT,Strict,344,2719
+USA,2021,Marketing,5681,5652,1598,6917,5121,Midjourney,Lenient,5441,2022
+UK,2025,Healthcare,8385,70,2288,5943,6673,Synthesia,Lenient,4337,2152
+China,2020,Media,4322,528,432,5115,5123,Bard,Moderate,6089,334
+South Korea,2025,Legal,5286,1091,173,5782,4595,Bard,Lenient,7904,409
+Japan,2022,Healthcare,4679,8092,1536,4909,3715,Stable Diffusion,Strict,3305,3261
+Australia,2021,Media,5744,7471,2591,478,8292,DALL-E,Strict,4917,4377
+UK,2022,Automotive,1199,280,2171,514,6659,DALL-E,Lenient,4171,519
+China,2025,Gaming,7004,666,2979,2317,5846,Bard,Moderate,4108,839
+France,2020,Legal,6443,4141,3839,1926,8829,DALL-E,Strict,4513,624
+Germany,2020,Manufacturing,2023,6816,4916,3834,2465,Bard,Lenient,5854,163
+Australia,2020,Marketing,3391,864,1715,592,321,DALL-E,Lenient,7605,3753
+China,2020,Manufacturing,9349,1696,2047,2627,8371,ChatGPT,Moderate,7017,4517
+India,2021,Manufacturing,4537,4859,4742,4066,8062,Bard,Moderate,7496,4748
+South Korea,2025,Healthcare,8658,2096,2408,249,8448,Claude,Strict,6005,4229
+Japan,2020,Retail,1903,466,3181,4763,3397,Claude,Lenient,7885,1908
+Germany,2020,Media,3428,7654,2652,6889,6167,ChatGPT,Lenient,5788,3563
+UK,2020,Education,6749,3537,3769,4979,5315,Stable Diffusion,Moderate,3556,4738
+India,2025,Retail,7635,7899,382,73,7078,Stable Diffusion,Lenient,7039,4549
+UK,2021,Automotive,4644,2616,491,6498,5291,Midjourney,Strict,6832,3439
+Japan,2023,Manufacturing,7857,724,1723,4761,4384,ChatGPT,Lenient,3452,3919
+USA,2021,Education,7311,9877,3822,6717,8765,Synthesia,Lenient,3154,3114
+India,2020,Automotive,6403,521,4136,5359,2362,DALL-E,Moderate,3789,3426
+Australia,2020,Healthcare,2102,205,547,7955,5309,ChatGPT,Strict,4482,1325
+China,2021,Finance,1476,5835,3961,7652,3603,Synthesia,Lenient,8184,2264
+France,2024,Automotive,1577,2395,751,4332,3655,ChatGPT,Strict,6071,4802
+Japan,2022,Media,2014,37,2068,5201,3702,Midjourney,Moderate,8194,4392
+India,2024,Media,152,3075,4544,1662,3127,Bard,Lenient,6168,140
+Australia,2020,Finance,6967,4775,2781,5574,7499,Synthesia,Moderate,6867,918
+India,2020,Education,7048,1997,3375,1507,6412,Stable Diffusion,Moderate,4813,4032
+China,2023,Healthcare,8075,6093,322,1467,6133,Claude,Moderate,8372,3254
+Canada,2023,Gaming,3196,4943,2825,5609,7912,Midjourney,Strict,6959,2186
+UK,2024,Automotive,8254,7106,4465,2893,3983,DALL-E,Lenient,3351,4928
+India,2020,Retail,9372,2755,4833,3186,7536,Bard,Moderate,7323,967
+Germany,2020,Manufacturing,2163,3658,4205,6125,530,Synthesia,Moderate,5727,2223
+France,2024,Media,2327,3875,4422,6788,7813,ChatGPT,Moderate,7279,135
+UK,2020,Automotive,6303,2618,3141,5791,639,Midjourney,Lenient,8366,621
+France,2021,Gaming,5467,641,3829,2712,2478,Stable Diffusion,Moderate,756,3281
+Canada,2020,Education,6069,5638,2934,2855,395,Claude,Strict,3081,326
+India,2024,Gaming,4417,8235,4279,4974,7411,Bard,Lenient,8195,249
+Japan,2020,Media,3427,419,2858,234,2404,Claude,Lenient,8703,3995
+China,2020,Media,3522,8415,2044,7308,6549,Synthesia,Lenient,4802,2255
+Germany,2023,Marketing,2095,2653,589,228,4714,ChatGPT,Strict,8245,4486
+Japan,2023,Marketing,7259,5137,403,384,7292,Claude,Moderate,7692,2759
+Canada,2020,Healthcare,6824,3633,2277,2434,4004,ChatGPT,Lenient,4516,1534
+France,2020,Media,5519,4106,2926,519,4904,ChatGPT,Moderate,5012,4608
+Australia,2023,Marketing,1843,744,275,1296,5431,ChatGPT,Moderate,7334,621
+Japan,2024,Marketing,8816,1483,286,2645,4753,DALL-E,Moderate,5928,2074
+India,2025,Legal,2945,9291,4289,1473,6845,Synthesia,Moderate,7382,1782
+Canada,2022,Automotive,1114,2847,4311,5061,782,Synthesia,Lenient,8193,4732
+India,2025,Education,4662,7237,2203,3166,3521,Synthesia,Lenient,4602,2008
+France,2022,Retail,4332,1893,2213,6174,3394,Claude,Lenient,6997,1322
+India,2024,Healthcare,5985,610,4104,7748,2832,Midjourney,Moderate,7017,3075
+UK,2020,Finance,8823,2018,1785,1099,8527,Claude,Moderate,3296,3223
+USA,2021,Education,8779,4086,2882,7404,7058,Stable Diffusion,Strict,6003,1222
+UK,2021,Education,2157,7701,3252,1361,3765,ChatGPT,Strict,3361,1887
+Germany,2021,Education,4509,118,2779,14,3909,Bard,Strict,5081,2061
+Canada,2020,Gaming,5097,1605,4678,6271,6818,Synthesia,Strict,6009,3102
+India,2024,Media,5218,584,368,6081,4256,Stable Diffusion,Strict,436,1406
+Germany,2021,Media,408,4229,2103,6227,2116,Bard,Lenient,7731,1295
+France,2024,Healthcare,7733,5128,236,2316,8493,ChatGPT,Strict,8501,2433
+India,2020,Automotive,8004,3649,2972,7674,6901,ChatGPT,Moderate,4827,448
+China,2022,Finance,3948,6335,2556,5514,2082,Midjourney,Lenient,4294,3632
+UK,2022,Gaming,3018,9754,1839,1476,4967,Midjourney,Moderate,8976,1256
+USA,2020,Finance,3652,42,2553,7101,2192,Bard,Moderate,849,2993
+France,2023,Legal,4839,5731,12,1795,6169,Bard,Lenient,6625,444
+Canada,2020,Legal,3994,5779,4608,4431,3814,Midjourney,Strict,4649,3729
+Canada,2025,Marketing,7843,8482,2641,472,3328,Synthesia,Moderate,6449,4504
+South Korea,2025,Gaming,8186,3553,2846,711,6348,ChatGPT,Moderate,3133,1161
+France,2025,Retail,2961,5956,2468,4692,5721,DALL-E,Moderate,317,289
+Germany,2021,Automotive,8944,5298,4847,1214,306,DALL-E,Lenient,7721,4435
+Germany,2020,Media,7011,2826,2762,5786,5871,DALL-E,Strict,7874,3173
+France,2023,Marketing,6577,4983,3994,7944,4373,Synthesia,Lenient,8158,1462
+Australia,2023,Automotive,4535,2049,3321,505,4173,Claude,Strict,4742,4311
+South Korea,2020,Healthcare,1053,2097,2364,3427,4567,Stable Diffusion,Moderate,5852,3337
