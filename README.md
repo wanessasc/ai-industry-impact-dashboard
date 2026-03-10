@@ -1,23 +1,3 @@
-Create a visually elegant and professional GitHub README design for a data analytics project.
-
-The README must be clean, modern, and premium-looking, suitable for a professional Data Analyst portfolio.
-
-Design guidelines:
-
-* Use a clean and modern layout
-* Include subtle emojis
-* Add section dividers
-* Use badges for technologies
-* Make the README visually appealing but still professional
-* Organize sections clearly
-* Use a dark-tech aesthetic (similar to modern AI/data projects)
-* Keep it GitHub-compatible Markdown
-* Include a dashboard preview section placeholder
-* Make it attractive for recruiters viewing the repository
-
-Project content:
-
-Title:
 AI Industry Impact Dashboard
 
 Description:
@@ -28,7 +8,7 @@ https://ai-industry-impact-dashboard.streamlit.app/
 
 Brazilian Portuguese section:
 
-🇧🇷 Sobre o Projeto
+Sobre o Projeto
 
 Projeto de análise de dados desenvolvido em Python para explorar o impacto da adoção de Inteligência Artificial em diferentes indústrias e países.
 
