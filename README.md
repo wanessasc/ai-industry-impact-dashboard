@@ -1,80 +1,62 @@
-# AI Industry Impact Dashboard
+AI Industry Impact Dashboard
 
-Projeto completo de analytics em Python para analisar impacto de IA por pais, industria e ano, com pipeline de dados, EDA e dashboard interativo em Streamlit.
+Interactive data analytics project built in Python to analyze the economic impact of AI adoption across industries and countries.
 
-## Estrutura
+Live Dashboard
+https://ai-industry-impact-dashboard.streamlit.app/
 
-```text
+🇧🇷 Sobre o Projeto
+
+Projeto de análise de dados desenvolvido em Python para explorar o impacto da adoção de Inteligência Artificial em diferentes indústrias e países.
+
+O projeto inclui:
+
+- Pipeline completo de dados
+- Análise exploratória (EDA)
+
+Dashboard interativo desenvolvido com Streamlit
+- Tech Stack
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Streamlit
+- Matplotlib
+- Seaborn
+
+Estrutura do Projeto
 ai-industry-impact-dashboard/
 ├── data/
 │   ├── raw/
-│   │   └── ai_market_clean_v2.csv
 │   └── processed/
-│       └── ai_market_clean_processed.csv
 ├── notebooks/
-│   └── eda_ai_market.ipynb
 ├── src/
-│   ├── __init__.py
-│   ├── analysis.py
-│   ├── config.py
-│   ├── data_loader.py
-│   ├── pipeline.py
-│   ├── preprocessing.py
-│   └── visualization.py
 ├── dashboard/
-│   └── app.py
 └── requirements.txt
-```
 
-## O que o projeto entrega
+Como executar
 
-- Carregamento do dataset via modulo dedicado.
-- Limpeza e padronizacao de dados.
-- Ajuste de colunas percentuais para escala de 0 a 100.
-- Enriquecimento com metricas derivadas:
-  - `net_impact_percent`
-  - `ai_maturity_score`
-- EDA com pandas, matplotlib, seaborn e plotly.
-- Dashboard Streamlit com:
-  - filtros laterais
-  - cards de KPIs
-  - comparacoes por pais e industria
-  - graficos interativos e insights.
+Instalar dependências:
 
-## Como executar
-
-1. Instale dependencias:
-
-```bash
 pip install -r requirements.txt
-```
 
-2. Gere a base tratada:
+Executar pipeline:
 
-```bash
 python -m src.pipeline
-```
 
-3. Abra o dashboard:
+Rodar dashboard:
 
-```bash
 streamlit run dashboard/app.py
-```
+Dashboard
 
-4. (Opcional) Explore o notebook:
+O dashboard apresenta:
 
-```bash
-jupyter notebook notebooks/eda_ai_market.ipynb
-```
+- adoção média de IA
+- impacto em receita
+- impacto no emprego
+- score de maturidade em IA
+- comparações entre países e indústrias
 
-## KPIs principais
-
-- Adocao media de IA (%)
-- Ganho medio de receita (%)
-- Perda media de empregos (%)
-- Impacto liquido medio (pontos percentuais)
-- Score medio de maturidade de IA
-
-## Observacao sobre os dados
-
-As colunas percentuais no CSV original aparentam estar em centesimos (ex.: `4429` representando `44.29%`). O pipeline converte automaticamente para escala percentual tradicional (0-100).
+Author
+Wanessa Carvalho
+Aspiring Data Analyst
